@@ -1,4 +1,4 @@
-### Olá! Eu sou a Carol, bem vindo(a) ao me perfil!
+### Olá! Eu sou a Carol, bem vindo(a) ao meu perfil!
 
 
 - 🔭 No momento presto serviços como estagiaria de suporte tecnico e também realizo testes manuais.
