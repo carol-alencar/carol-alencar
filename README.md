@@ -1,9 +1,10 @@
 ### Olá! Eu sou a Carol, bem vindo(a) ao meu perfil!
 
 
-- 🔭 No momento presto serviços como estagiaria de suporte tecnico e também realizo testes manuais.
-- 🌱 Estou estudando HTML e CSS para melhor aperfeiçoamento e chatbots com inteligencia artificial do Google.
+- 🔭 No momento, presto serviços como estagiária de suporte técnico e também realizo testes manuais.
+- 🌱 Estou estudando HTML e CSS para melhor aperfeiçoamento e chatbots com inteligência artificial do Google.
 - 😄 Pronouns: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/carol-alencar">
