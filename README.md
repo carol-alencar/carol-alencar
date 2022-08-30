@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Carol, bem vindo(a) ao meu perfil!
 
 
-- 🔭 No momento, presto serviços como estagiária de suporte técnico e também realizo testes manuais.
-- 🌱 Estou estudando HTML e CSS para melhor aperfeiçoamento e chatbots com inteligência artificial do Google.
+- 🔭 No momento, estou buscando uma oportunidade no mercado.
+- 🌱 Estou estudando HTML e CSS para melhor aperfeiçoamento e chatbots.
 - 😄 Pronouns: ela/dela
 
 
